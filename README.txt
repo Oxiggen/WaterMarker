@@ -1,0 +1,2 @@
+This code is designated to provide a service fro watermarking of the images  and save it as JPG of PNG.
+There is a lot of functionalities that could be added and error handling as well but maybe in the future I will come back to this code.
